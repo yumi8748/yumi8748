@@ -6,8 +6,7 @@
 - 💡 Passionate about Blockchain, AI, and Investment
 
 ## 🔭 Current Focus
-- StarkHack Hackathon - building Yield Optimiser on Starknet with Cairo
-- Building a MiniShell for my school project at 42Paris
+- I'm currently doing school project: Inception, learning to set up and manage multiple Docker containers on a virtual machine, focusing on isolating applications, optimizing resources, and working efficiently with containerized systems.
 
 ## 🌱 Learning Journey
 - C, C++: Mastering the fundamentals
