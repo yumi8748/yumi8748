@@ -19,6 +19,7 @@ For security, it implements WAF/ModSecurity with a hardened configuration to def
 
 ## 📫 Let's Connect!
 - Email: yu-chen@student.42.fr or 54yumi870408@gmail.com
+- Linkedin: www.linkedin.com/in/yu-hsuan-chen-
 
 ### 42 School Projects
 
