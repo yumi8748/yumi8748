@@ -6,7 +6,7 @@
 - 💡 Passionate about Blockchain, AI, and Investment
 
 ## 🔭 Current Focus
-- I'm currently doing the last school project of common core: ft_transcendence is a microservice-based project using Fastify with Node.js for the backend and SQLite for data storage, deployed via Docker.
+- I'm currently doing the last school project of common core: "ft_transcendence", a microservice-based project using Fastify with Node.js for the backend and SQLite for data storage, deployed via Docker.
 The front end is a TypeScript-based SPA（Single Page Application）, offering a seamless and competitive online Pong experience with matchmaking and tournament features.
 For security, it implements WAF/ModSecurity with a hardened configuration to defend against web attacks and HashiCorp Vault for secure secrets management.
 
